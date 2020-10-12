@@ -1,0 +1,2 @@
+:class="[(storecorectans === oneitem) ? 'corectstyle' : '', (!selectedans && storecorectans === oneitem) ? 'incorecstyle' : '']"
+
